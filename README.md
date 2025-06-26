@@ -1,1 +1,1 @@
-# app-with-argocd-img-manifest-
+# app-with-argocd-img-manifest
