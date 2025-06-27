@@ -1,6 +1,7 @@
 resources:
   - argocd-img-deployment.yaml
   - argocd-img-service.yaml
+  - sealed-secret.yaml
 images:
   - name: h6bro/app-with-argocd-img
     newname: nginx
